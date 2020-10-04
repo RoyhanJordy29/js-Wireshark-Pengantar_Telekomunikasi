@@ -1,0 +1,14 @@
+Throughput: 
+178025/54.719 = 3253,44 bytes/s
+1bytes = 8 bit
+3253,44 x 8 = 26k bits/s
+
+Packet Loss: 0%
+
+Delay: 
+total Delay= 54.696714 s
+rata rata Delay= 0.10682952 s
+
+Jitter: 
+total Jitter= 37537.7
+rata rata Jitter= 73.31583
